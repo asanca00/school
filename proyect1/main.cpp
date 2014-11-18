@@ -6,5 +6,7 @@ int main(int argc, char *argv[])
 
     qDebug() << "Proyecto 1";
 
+    qDebug () << "Cambio 1";
+
     return a.exec();
 }
