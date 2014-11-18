@@ -9,5 +9,7 @@ int main(int argc, char *argv[])
     qDebug () << "Cambio 1";
     // Hay que hacer cambios
 
+    // Tag hecho
+
     return a.exec();
 }
